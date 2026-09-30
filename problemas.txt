@@ -1,1 +1,0 @@
-Security Group Privada - Deixei sem acesso ao trafego IPV4 da internet, com isso mesmo com NAT estava sem conseguir navegar.
