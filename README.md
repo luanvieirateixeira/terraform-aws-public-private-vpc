@@ -4,6 +4,10 @@ Este repositório é um dos meus primeiros projetos usando Terraform. A ideia fo
 
 Usei a documentação do Terraform e da AWS, junto com exemplos, para entender como os recursos se relacionam e como organizá-los em módulos.
 
+## Arquitetura do projeto
+
+![Arquitetura Excalidraw](terraform-excalidraw.png)
+
 ## O que o projeto cria
 
 - Uma VPC com CIDR `10.0.0.0/16`.
